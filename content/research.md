@@ -14,7 +14,7 @@ Genetic variation is abundant across individuals within a population, and it can
 
 ## OpenGWAS
 
-The world's largest collection of genome-wide association study (GWAS) summary data. The goal off this project is to systematically harmonise complete GWAS summary datasets against the human genome reference panel in order to enable rapid and robust programmatic analysis of thousands of molecular traits, complex traits and diseases.
+The world's largest collection of genome-wide association study (GWAS) summary data. The goal of this project is to systematically harmonise complete GWAS summary datasets against the human genome reference panel in order to enable rapid and robust programmatic analysis of thousands of molecular traits, complex traits and diseases.
 
 Main website: [https://gwas.mrcieu.ac.uk/](https://gwas.mrcieu.ac.uk/)
 

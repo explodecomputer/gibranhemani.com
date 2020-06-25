@@ -1,29 +1,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gibran Hemani</title>
-    <link>/</link>
+    <link>https://www.explodecomputer.com/</link>
     <description>Recent content on Gibran Hemani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.explodecomputer.com/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>https://www.explodecomputer.com/post/</link>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/</guid>
+      <guid>https://www.explodecomputer.com/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://www.explodecomputer.com/about/</link>
       <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/img/bal.png&#34; alt=&#34;balance&#34;&gt;&lt;/p&gt;
+      <guid>https://www.explodecomputer.com/about/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://www.explodecomputer.com/img/bal.png&#34; alt=&#34;balance&#34;&gt;&lt;/p&gt;
 &lt;p&gt;I am a Senior Research Fellow at the University of Bristol with academic interests in genetics, computational methods, statistics and machine learning. I currently hold a Wellcome Trust Sir Henry Dale Fellowship, which focuses on leveraging large scale genetic data to improve causal inference in epidemiological models. I obtained a PhD in quantative genetics at the University of Edinburgh, UK, and then spent two years at the University of Queensland, Australia prior to coming to Bristol.&lt;/p&gt;
 &lt;p&gt;I live with my wife and two astonishingly messy creatures (one toddler, one dog) in Bristol, UK, and have been here since 2014.&lt;/p&gt;
 &lt;p&gt;This site collates my publications, software, current projects and teaching materials. Do get in touch if you&amp;rsquo;re interested in my work, have questions, or perhaps fancy a quick game of chess =]&lt;/p&gt;
@@ -32,24 +32,24 @@
     
     <item>
       <title>Publications</title>
-      <link>/publications/</link>
+      <link>https://www.explodecomputer.com/publications/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publications/</guid>
+      <guid>https://www.explodecomputer.com/publications/</guid>
       <description>&lt;p&gt;Why go to the trouble of maintaining a list of publications when &lt;a href=&#34;https://scholar.google.com/citations?user=6fC0BYYAAAAJ&amp;amp;hl=en&#34;&gt;google scholar&lt;/a&gt; will do it for you!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>/research/</link>
+      <link>https://www.explodecomputer.com/research/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/research/</guid>
+      <guid>https://www.explodecomputer.com/research/</guid>
       <description>&lt;h2 id=&#34;causal-inference&#34;&gt;Causal inference&lt;/h2&gt;
 &lt;p&gt;Genetic variation is abundant across individuals within a population, and it can explain a substantial proportion of the risk of disease and variation in quantitative phenotypes. An interesting thing about genetic variation is that it can be treated like a natural experiment, in which observing the genotype at a relevant locus is akin to observing the outcome of a randomly allocated treatment effect. This is the basis of Mendelian randomisation, a method for inferring causal relationships between phenotypes. Much of my current work focuses on developing statistical and computational methods to improve the scope and reliability of Mendelian randomisation.&lt;/p&gt;
 &lt;h2 id=&#34;opengwas&#34;&gt;OpenGWAS&lt;/h2&gt;
-&lt;p&gt;The world&amp;rsquo;s largest collection of genome-wide association study (GWAS) summary data. The goal off this project is to systematically harmonise complete GWAS summary datasets against the human genome reference panel in order to enable rapid and robust programmatic analysis of thousands of molecular traits, complex traits and diseases.&lt;/p&gt;
+&lt;p&gt;The world&amp;rsquo;s largest collection of genome-wide association study (GWAS) summary data. The goal of this project is to systematically harmonise complete GWAS summary datasets against the human genome reference panel in order to enable rapid and robust programmatic analysis of thousands of molecular traits, complex traits and diseases.&lt;/p&gt;
 &lt;p&gt;Main website: &lt;a href=&#34;https://gwas.mrcieu.ac.uk/&#34;&gt;https://gwas.mrcieu.ac.uk/&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;genetics-of-dna-methylation&#34;&gt;Genetics of DNA methylation&lt;/h2&gt;
 &lt;p&gt;DNA methylation levels in human blood varies across tissues and between individuals. The goal of GoDMC is to map the genetic factors that drive that variability. We can use these factors as natural experiments, to understand the consequences of perturbations of DNA methylation to human trait and disease variation.&lt;/p&gt;
@@ -83,10 +83,10 @@
     
     <item>
       <title>Software</title>
-      <link>/software/</link>
+      <link>https://www.explodecomputer.com/software/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/software/</guid>
+      <guid>https://www.explodecomputer.com/software/</guid>
       <description>&lt;p&gt;My personal github page: &lt;a href=&#34;https://github.com/explodecomputer&#34;&gt;https://github.com/explodecomputer&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I also regularly contribute to the MRC IEU github organisation code base: &lt;a href=&#34;https://github.com/mrcieu/&#34;&gt;https://github.com/mrcieu/&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;causal-inference&#34;&gt;Causal inference&lt;/h2&gt;
@@ -140,22 +140,27 @@
 &lt;p&gt;&lt;a href=&#34;https://github.com/explodecomputer/AscRtain&#34;&gt;ascRtain R package&lt;/a&gt; - Explore bias in observational associations due to collider issues that arise from non-random sampling&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;http://variables.alspac.bris.ac.uk/&#34;&gt;ALSPAC data dictionary&lt;/a&gt; - Browse all the phenotypica variables captured within the &lt;a href=&#34;http://www.bristol.ac.uk/alspac/&#34;&gt;Avon Longitudinal Study for Parents and Children&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://variables.alspac.bris.ac.uk/&#34;&gt;ALSPAC data dictionary&lt;/a&gt; - Browse all the phenotypic variables captured within the &lt;a href=&#34;http://www.bristol.ac.uk/alspac/&#34;&gt;Avon Longitudinal Study for Parents and Children&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;random-stuff&#34;&gt;Random stuff&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.uss-pension-model.com/&#34;&gt;USS Pension model&lt;/a&gt; - Collaboration with Neil Davies to illustrate the impact of the planned changes to the UK University pension scheme&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.uss-pension-model.com/&#34;&gt;USS Pension model&lt;/a&gt; - Collaboration with Neil Davies to illustrate the impact of the planned changes to the UK University pension scheme&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/explodecomputer/shared-parental-leave&#34;&gt;Shared parental leave calculator&lt;/a&gt; - How to divide up shared parental leave? This R package attempts to calculate the cost, time spent with baby and work time lost&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Talks</title>
-      <link>/talks/</link>
+      <link>https://www.explodecomputer.com/talks/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/talks/</guid>
+      <guid>https://www.explodecomputer.com/talks/</guid>
       <description>&lt;h1 id=&#34;2020&#34;&gt;2020&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.eventbrite.co.uk/e/new-data-on-covid-19-is-undermined-by-old-statistical-problems-tickets-105058540924&#34;&gt;New data on Covid-19 is undermined by old statistical problems&lt;/a&gt; - Invited talk as part of the Elizabeth Blackwell Institute data week programme&lt;/li&gt;
@@ -195,10 +200,10 @@
     
     <item>
       <title>Teaching</title>
-      <link>/teaching/</link>
+      <link>https://www.explodecomputer.com/teaching/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/</guid>
+      <guid>https://www.explodecomputer.com/teaching/</guid>
       <description>&lt;h2 id=&#34;genomic-data-science-module&#34;&gt;Genomic Data science module&lt;/h2&gt;
 &lt;p&gt;The top medical students at the University of Bristol have an option to intercalate during their third year. I co-lead a 20-credit module as part of the Genomic Medicine iBSc&lt;/p&gt;
 &lt;ul&gt;
