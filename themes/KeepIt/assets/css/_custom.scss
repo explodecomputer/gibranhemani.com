@@ -1,0 +1,48 @@
+// ==============================
+// Custom style
+// ==============================
+// You can override the variables in _variables.scss to customize the style
+
+.blinking-cursor {
+    font-weight: 100;
+    font-size: 1em;
+    color: black;
+    padding: 0px;
+    margin-left: 1px;
+    -webkit-animation: 1s blink step-end infinite;
+    -moz-animation: 1s blink step-end infinite;
+    -ms-animation: 1s blink step-end infinite;
+    -o-animation: 1s blink step-end infinite;
+    animation: 1s blink step-end infinite;
+  }
+  
+  @-webkit-keyframes blink {
+    0% {background: transparent}
+    50% {background: $dark-background-color}
+    100% {background: transparent}
+  }
+  
+  @keyframes blink {
+    0% {background: transparent}
+    50% {background: $dark-background-color}
+    100% {background: transparent}
+  }
+
+  @-moz-keyframes blink {
+    0% {background: transparent}
+    50% {background: $dark-background-color}
+    100% {background: transparent}
+  }
+
+  @-ms-keyframes blink {
+    0% {background: transparent}
+    50% {background: $dark-background-color}
+    100% {background: transparent}
+  }
+
+  @-o-keyframes blink {
+    0% {background: transparent}
+    50% {background: $dark-background-color}
+    100% {background: transparent}
+  }
+
