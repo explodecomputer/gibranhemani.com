@@ -10,8 +10,6 @@ enableRobotsTXT = true
 googleAnalytics = ""
 disqusShortname = "yourdiscussshortname"
 
-publishDir = "docs"
-
 [sitemap]
   changefreq = "monthly"
   filename = "sitemap.xml"
