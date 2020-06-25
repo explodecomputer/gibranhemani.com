@@ -45,3 +45,8 @@ I also regularly contribute to the MRC IEU github organisation code base: [https
 - [ascRtain R package](https://github.com/explodecomputer/AscRtain) - Explore bias in observational associations due to collider issues that arise from non-random sampling
 
 - [ALSPAC data dictionary](http://variables.alspac.bris.ac.uk/) - Browse all the phenotypica variables captured within the [Avon Longitudinal Study for Parents and Children](http://www.bristol.ac.uk/alspac/)
+
+
+## Random stuff
+
+- [USS Pension model](http://www.uss-pension-model.com/) - Collaboration with Neil Davies to illustrate the impact of the planned changes to the UK University pension scheme

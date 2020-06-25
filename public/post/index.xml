@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Gibran Hemani</title>
-    <link>/post/</link>
+    <link>https://www.explodecomputer.com/post/</link>
     <description>Recent content in Posts on Gibran Hemani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.explodecomputer.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How this site was built</title>
-      <link>/post/how-this-site-was-built/</link>
+      <link>https://www.explodecomputer.com/post/how-this-site-was-built/</link>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/how-this-site-was-built/</guid>
+      <guid>https://www.explodecomputer.com/post/how-this-site-was-built/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introducing the OpenGWAS project</title>
-      <link>/post/introducing-the-opengwas-project/</link>
+      <link>https://www.explodecomputer.com/post/introducing-the-opengwas-project/</link>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/introducing-the-opengwas-project/</guid>
+      <guid>https://www.explodecomputer.com/post/introducing-the-opengwas-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The seventeen swims</title>
-      <link>/post/the-seventeen-swims/</link>
+      <link>https://www.explodecomputer.com/post/the-seventeen-swims/</link>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/the-seventeen-swims/</guid>
+      <guid>https://www.explodecomputer.com/post/the-seventeen-swims/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writing C extensions for R</title>
-      <link>/post/writing-c-extensions-for-r/</link>
+      <link>https://www.explodecomputer.com/post/writing-c-extensions-for-r/</link>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/writing-c-extensions-for-r/</guid>
+      <guid>https://www.explodecomputer.com/post/writing-c-extensions-for-r/</guid>
       <description></description>
     </item>
     
