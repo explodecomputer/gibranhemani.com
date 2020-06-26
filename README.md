@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/36a53441-1680-4fcf-baca-40aff42f6d7f/deploy-status)](https://app.netlify.com/sites/priceless-poincare-f308fe/deploys)
+
+
 # Personal website
 
 Built using [blogdown](https://bookdown.org/yihui/blogdown/)
