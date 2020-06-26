@@ -63,4 +63,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://www.explodecomputer.com/sitemap.xml
+Sitemap: /sitemap.xml
