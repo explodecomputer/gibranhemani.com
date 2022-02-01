@@ -29,6 +29,10 @@ I also regularly contribute to the MRC IEU github organisation code base: [https
 
 - [GoDMC API](http://api.godmc.org.uk/v0.1) - Query the cis- and trans-mQTL results from the [GoDMC project](http://godmc.org.uk/)
 
+- [random-METAL](https://github.com/explodecomputer/random-metal) - An edit to the popular software package [METAL](https://genome.sph.umich.edu/wiki/METAL). This edit enables a DerSimonian-Laird random effects meta-analysis model.
+
+- [simulateGP](https://explodecomputer.github.io/simulateGP/) - R package that contains a collection of methods for simulating and analysing genotype-phenotype relationships
+
 - [ImputePipe](https://github.com/explodecomputer/imputePipe) - Pipelines for performing imputation of genotyped datasets
 
 - [gctaPower](https://shiny.cnsgenomics.com/gctaPower/) - Power calculator for univariate and bivariate genomic REML analyses
@@ -38,7 +42,6 @@ I also regularly contribute to the MRC IEU github organisation code base: [https
 - [epiCPU](https://github.com/explodecomputer/episcan) - Perform exhaustive two-dimensional epistasis scans rapidly across multiple CPU cores
 
 - [epiPower web app](https://github.com/explodecomputer/epipower) - Calculate statistical power and significance thresholds for two-dimensional epistasis scans
-
 
 ## Epidemiology
 

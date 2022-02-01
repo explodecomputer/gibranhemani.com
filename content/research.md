@@ -32,22 +32,29 @@ Huntington's disease is caused by a well-known expansion of repetitive DNA seque
 
 The world is desperate to learn the epidemiological factors that influence risk of infection by the SARS-CoV-2 virus, and severity of ensuing Covid-19 disease. As a consequence, data is being gathered rapidly and in many different contexts to answer these questions - but the non-random manner in which data is being collected opens up problems in causal inference and prediction models. I am leading an effort to understand these biases and to develop tools to counteract them.
 
+## Decolonising the curriculum
+
+The purpose of a curriculum is to determine what knowledge we value, and it presents a world view to our students. A colonised curriculum is one in which bias relating to coloniality influences that knowledge base, and influences that world view. It has major implications for our students in the medical school, both for clinical practice and for medical research. The premise of decolonisation is that removing these biases will improve outcomes for all (including those who have been excluded and those who have not). I co-lead the Decolonising the curriculum special interest group at the Bristol Medical School.
+
+Main website: [http://decolbms.org.uk/](http://decolbms.org.uk/)
+
 
 # Team
 
 ### Current
 
-- Ildar Sadreev (Post-doc)
 - Yoonsu Cho (Post-doc)
+- Clare Horscroft (Post-doc)
 - Sam Neaves (Post-doc, data manager)
 - Hannah Wilson (PhD student)
-- Tom Battram (PhD student)
 - Lily Andrews (PhD student)
+- Amanda Forde (PhD student)
 - Chris Moreno-Stokoe (PhD student)
-- Stoil Ganev (PhD student)
 
 ### Former
 
+- Ildar Sadreev (Post-doc)
+- Tom Battram (PhD student)
 - Laurence Howe (PhD student)
 - Charles Laurin (Post-doc)
 - Aidan Ball (MSc student)
