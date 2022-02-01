@@ -1,51 +1,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gibran Hemani</title>
-    <link>/</link>
+    <link>https://www.explodecomputer.com/</link>
     <description>Recent content on Gibran Hemani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Posts</title>
-      <link>/post/</link>
-      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/</guid>
-      <description></description>
-    </item>
+    <atom:link href="https://www.explodecomputer.com/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
-      <link>/about/</link>
-      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      <link>https://www.explodecomputer.com/about/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/img/bal.png&#34; alt=&#34;balance&#34;&gt;&lt;/p&gt;
-&lt;p&gt;I am a Senior Research Fellow at the University of Bristol with academic interests in genetics, computational methods, statistics and machine learning. I currently hold a Wellcome Trust Sir Henry Dale Fellowship, which focuses on leveraging large scale genetic data to improve causal inference in epidemiological models. I obtained a PhD in quantative genetics at the University of Edinburgh, UK, and then spent two years at the University of Queensland, Australia prior to coming to Bristol.&lt;/p&gt;
-&lt;p&gt;I live with my wife and two astonishingly messy creatures (one toddler, one dog) in Bristol, UK, and have been here since 2014.&lt;/p&gt;
+      <guid>https://www.explodecomputer.com/about/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://www.explodecomputer.com/img/bal.png&#34; alt=&#34;balance&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I am an Associate Professor in Statistical Genetics at the University of Bristol. My academic interests are in genetics, computational methods, statistical methods for causal inference and decolonisation. I currently hold a Wellcome Trust Sir Henry Dale Fellowship, which focuses on leveraging large scale genetic data to improve causal inference in epidemiological models. I obtained a PhD in quantative genetics at the University of Edinburgh, UK, and then spent two years at the University of Queensland, Australia prior to coming to Bristol.&lt;/p&gt;
+&lt;p&gt;I live with my wife and three astonishingly messy creatures (two small children, one dog) in Bristol, UK, and have been here since 2014.&lt;/p&gt;
 &lt;p&gt;This site collates my publications, software, current projects and teaching materials. Do get in touch if you&amp;rsquo;re interested in my work, have questions, or perhaps fancy a quick game of chess =]&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>Posts</title>
+      <link>https://www.explodecomputer.com/post/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.explodecomputer.com/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Publications</title>
-      <link>/publications/</link>
+      <link>https://www.explodecomputer.com/publications/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publications/</guid>
-      <description>&lt;p&gt;Why go to the trouble of maintaining a list of publications when &lt;a href=&#34;https://scholar.google.com/citations?user=6fC0BYYAAAAJ&amp;amp;hl=en&#34;&gt;google scholar&lt;/a&gt; will do it for you!&lt;/p&gt;
+      <guid>https://www.explodecomputer.com/publications/</guid>
+      <description>&lt;p&gt;For a full list of publications see my &lt;a href=&#34;https://scholar.google.com/citations?user=6fC0BYYAAAAJ&amp;amp;hl=en&#34;&gt;google scholar&lt;/a&gt; page.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>/research/</link>
+      <link>https://www.explodecomputer.com/research/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/research/</guid>
+      <guid>https://www.explodecomputer.com/research/</guid>
       <description>&lt;h2 id=&#34;causal-inference&#34;&gt;Causal inference&lt;/h2&gt;
 &lt;p&gt;Genetic variation is abundant across individuals within a population, and it can explain a substantial proportion of the risk of disease and variation in quantitative phenotypes. An interesting thing about genetic variation is that it can be treated like a natural experiment, in which observing the genotype at a relevant locus is akin to observing the outcome of a randomly allocated treatment effect. This is the basis of Mendelian randomisation, a method for inferring causal relationships between phenotypes. Much of my current work focuses on developing statistical and computational methods to improve the scope and reliability of Mendelian randomisation.&lt;/p&gt;
 &lt;h2 id=&#34;opengwas&#34;&gt;OpenGWAS&lt;/h2&gt;
@@ -58,20 +58,24 @@
 &lt;p&gt;Huntington&amp;rsquo;s disease is caused by a well-known expansion of repetitive DNA sequence in the &lt;em&gt;HTT&lt;/em&gt; gene. However, there is substantial variation between individuals with the pathogenic allele in terms of age of onset and symptoms experienced. I work with the &lt;a href=&#34;https://chdifoundation.org/&#34;&gt;CHDI foundation&lt;/a&gt; to develop a better understanding of the complex genetic influences on disease progression of Huntington&amp;rsquo;s disease/&lt;/p&gt;
 &lt;h2 id=&#34;statistical-methods-for-covid-19-research&#34;&gt;Statistical methods for Covid-19 research&lt;/h2&gt;
 &lt;p&gt;The world is desperate to learn the epidemiological factors that influence risk of infection by the SARS-CoV-2 virus, and severity of ensuing Covid-19 disease. As a consequence, data is being gathered rapidly and in many different contexts to answer these questions - but the non-random manner in which data is being collected opens up problems in causal inference and prediction models. I am leading an effort to understand these biases and to develop tools to counteract them.&lt;/p&gt;
+&lt;h2 id=&#34;decolonising-the-curriculum&#34;&gt;Decolonising the curriculum&lt;/h2&gt;
+&lt;p&gt;The purpose of a curriculum is to determine what knowledge we value, and it presents a world view to our students. A colonised curriculum is one in which bias relating to coloniality influences that knowledge base, and influences that world view. It has major implications for our students in the medical school, both for clinical practice and for medical research. The premise of decolonisation is that removing these biases will improve outcomes for all (including those who have been excluded and those who have not). I co-lead the Decolonising the curriculum special interest group at the Bristol Medical School.&lt;/p&gt;
+&lt;p&gt;Main website: &lt;a href=&#34;http://decolbms.org.uk/&#34;&gt;http://decolbms.org.uk/&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;team&#34;&gt;Team&lt;/h1&gt;
 &lt;h3 id=&#34;current&#34;&gt;Current&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Ildar Sadreev (Post-doc)&lt;/li&gt;
 &lt;li&gt;Yoonsu Cho (Post-doc)&lt;/li&gt;
+&lt;li&gt;Clare Horscroft (Post-doc)&lt;/li&gt;
 &lt;li&gt;Sam Neaves (Post-doc, data manager)&lt;/li&gt;
 &lt;li&gt;Hannah Wilson (PhD student)&lt;/li&gt;
-&lt;li&gt;Tom Battram (PhD student)&lt;/li&gt;
 &lt;li&gt;Lily Andrews (PhD student)&lt;/li&gt;
+&lt;li&gt;Amanda Forde (PhD student)&lt;/li&gt;
 &lt;li&gt;Chris Moreno-Stokoe (PhD student)&lt;/li&gt;
-&lt;li&gt;Stoil Ganev (PhD student)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;former&#34;&gt;Former&lt;/h3&gt;
 &lt;ul&gt;
+&lt;li&gt;Ildar Sadreev (Post-doc)&lt;/li&gt;
+&lt;li&gt;Tom Battram (PhD student)&lt;/li&gt;
 &lt;li&gt;Laurence Howe (PhD student)&lt;/li&gt;
 &lt;li&gt;Charles Laurin (Post-doc)&lt;/li&gt;
 &lt;li&gt;Aidan Ball (MSc student)&lt;/li&gt;
@@ -83,10 +87,10 @@
     
     <item>
       <title>Software</title>
-      <link>/software/</link>
+      <link>https://www.explodecomputer.com/software/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/software/</guid>
+      <guid>https://www.explodecomputer.com/software/</guid>
       <description>&lt;p&gt;My personal github page: &lt;a href=&#34;https://github.com/explodecomputer&#34;&gt;https://github.com/explodecomputer&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I also regularly contribute to the MRC IEU github organisation code base: &lt;a href=&#34;https://github.com/mrcieu/&#34;&gt;https://github.com/mrcieu/&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;causal-inference&#34;&gt;Causal inference&lt;/h2&gt;
@@ -117,6 +121,12 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;http://api.godmc.org.uk/v0.1&#34;&gt;GoDMC API&lt;/a&gt; - Query the cis- and trans-mQTL results from the &lt;a href=&#34;http://godmc.org.uk/&#34;&gt;GoDMC project&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/explodecomputer/random-metal&#34;&gt;random-METAL&lt;/a&gt; - An edit to the popular software package &lt;a href=&#34;https://genome.sph.umich.edu/wiki/METAL&#34;&gt;METAL&lt;/a&gt;. This edit enables a DerSimonian-Laird random effects meta-analysis model.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://explodecomputer.github.io/simulateGP/&#34;&gt;simulateGP&lt;/a&gt; - R package that contains a collection of methods for simulating and analysing genotype-phenotype relationships&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/explodecomputer/imputePipe&#34;&gt;ImputePipe&lt;/a&gt; - Pipelines for performing imputation of genotyped datasets&lt;/p&gt;
@@ -157,53 +167,53 @@
     
     <item>
       <title>Talks</title>
-      <link>/talks/</link>
+      <link>https://www.explodecomputer.com/talks/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/talks/</guid>
+      <guid>https://www.explodecomputer.com/talks/</guid>
       <description>&lt;h1 id=&#34;2020&#34;&gt;2020&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.eventbrite.co.uk/e/new-data-on-covid-19-is-undermined-by-old-statistical-problems-tickets-105058540924&#34;&gt;New data on Covid-19 is undermined by old statistical problems&lt;/a&gt; - Invited talk as part of the Elizabeth Blackwell Institute data week programme&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;New data on Covid-19 is undermined by old statistical problems&lt;/strong&gt; - Invited talk as part of the Elizabeth Blackwell Institute data week programme [&lt;a href=&#34;https://www.youtube.com/watch?v=rVQsFziZ83g&#34;&gt;youtube&lt;/a&gt;] [&lt;a href=&#34;https://www.eventbrite.co.uk/e/new-data-on-covid-19-is-undermined-by-old-statistical-problems-tickets-105058540924&#34;&gt;eventbrite&lt;/a&gt;] [&lt;a href=&#34;&#34;&gt;slides&lt;/a&gt;]&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;2019&#34;&gt;2019&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.eventbrite.com/e/segeg-meeting-in-bristol-2019-registration-59018859999&#34;&gt;SEGEG meeting in Bristol 2019&lt;/a&gt; - Hosted the South England Genetic Epidemiology Group meeting at the Watershed Cinema, Bristol&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;&#34;&gt;Genetic architecture&lt;/a&gt; - Invited chair, 2019 GRC Quantitative Genetics conference, Italy&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;&#34;&gt;Genetics of DNA methylation&lt;/a&gt; - Plenary, Mendelian Randomization conference, Bristol&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;&#34;&gt;Advice on applying for fellowships&lt;/a&gt; - Invited talk, University of Bristol&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SEGEG meeting in Bristol 2019&lt;/strong&gt; - Hosted the South England Genetic Epidemiology Group meeting at the Watershed Cinema, Bristol [&lt;a href=&#34;(https://www.eventbrite.com/e/segeg-meeting-in-bristol-2019-registration-59018859999)&#34;&gt;eventbrite&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Genetic architecture&lt;/strong&gt; - Invited chair, 2019 GRC Quantitative Genetics conference, Italy&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Genetics of DNA methylation&lt;/strong&gt; - Plenary, Mendelian Randomization conference, Bristol&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Advice on applying for fellowships&lt;/strong&gt; - Invited talk, University of Bristol&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;2018&#34;&gt;2018&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;&#34;&gt;Automating Mendelian randomization&lt;/a&gt; - Invited talk at the SEGEG meeting, Oxford&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;&#34;&gt;Machine learning in Mendelian randomization&lt;/a&gt; - Invited talk at the Edinburgh Alliance in Quantitative Genetics&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;&#34;&gt;Causal inference and machine learning&lt;/a&gt; - Invited talk at the Oxford-Man Institute of Quantitative Finance, University of Oxford&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;&#34;&gt;Causal graph of the human phenome&lt;/a&gt; - Invited talk at UCL&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automating Mendelian randomization&lt;/strong&gt; - Invited talk at the SEGEG meeting, Oxford&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Machine learning in Mendelian randomization&lt;/strong&gt; - Invited talk at the Edinburgh Alliance in Quantitative Genetics&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Causal inference and machine learning&lt;/strong&gt; - Invited talk at the Oxford-Man Institute of Quantitative Finance, University of Oxford&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Causal graph of the human phenome&lt;/strong&gt; - Invited talk at UCL&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;2017&#34;&gt;2017&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;&#34;&gt;Methods in causal inference&lt;/a&gt; - NIA DGCG Omics Meeting, National Institute on Aging, Washington DC&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Methods in causal inference&lt;/strong&gt; - NIA DGCG Omics Meeting, National Institute on Aging, Washington DC&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;2016&#34;&gt;2016&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;&#34;&gt;Wellcome Trust public debate on genetic data privacy&lt;/a&gt; - Panel member, Bristol&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;&#34;&gt;Contribution of rare variants to complex traits&lt;/a&gt; - Invited talk, NEGEG meeting, Manchester&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;&#34;&gt;Genetic architecture of DNA methylation levels&lt;/a&gt; - Invited talk, Northern Epigenetics Club, Manchester&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wellcome Trust public debate on genetic data privacy&lt;/strong&gt; - Panel member, Bristol&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contribution of rare variants to complex traits&lt;/strong&gt; - Invited talk, NEGEG meeting, Manchester&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Genetic architecture of DNA methylation levels&lt;/strong&gt; - Invited talk, Northern Epigenetics Club, Manchester&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;2015&#34;&gt;2015&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;&#34;&gt;Inferring genetic architecture of rare variants&lt;/a&gt; - Invited talk, Royal Statistical Society meeting on &amp;ldquo;Hidden complexities in complex traits&amp;rdquo;, London&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;&#34;&gt;Horizontal pleiotropy in Mendelian randomization&lt;/a&gt; - Plenary, Mendelian Randomization conference, Bristol&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;&#34;&gt;Genetic architecture of DNA methylation levels&lt;/a&gt; - Plenary, Epigenomics of Common Disease 2015, Cambridge&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Inferring genetic architecture of rare variants&lt;/strong&gt; - Invited talk, Royal Statistical Society meeting on &amp;ldquo;Hidden complexities in complex traits&amp;rdquo;, London&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Horizontal pleiotropy in Mendelian randomization&lt;/strong&gt; - Plenary, Mendelian Randomization conference, Bristol&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Genetic architecture of DNA methylation levels&lt;/strong&gt; - Plenary, Epigenomics of Common Disease 2015, Cambridge&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>/teaching/</link>
+      <link>https://www.explodecomputer.com/teaching/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/</guid>
+      <guid>https://www.explodecomputer.com/teaching/</guid>
       <description>&lt;h2 id=&#34;genomic-data-science-module&#34;&gt;Genomic Data science module&lt;/h2&gt;
 &lt;p&gt;The top medical students at the University of Bristol have an option to intercalate during their third year. I co-lead a 20-credit module as part of the Genomic Medicine iBSc&lt;/p&gt;
 &lt;ul&gt;

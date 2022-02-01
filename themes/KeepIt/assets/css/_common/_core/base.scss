@@ -63,7 +63,11 @@
         background-color: $dark-background-color;
         color: $dark-font-color;
      }
-  }
+     background-image: url(/img/background/50-Beautiful-and-Minimalist-Presentation-Backgrounds-02.jpg);
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-attachment: fixed; 
+ }
   
   a {
     color: $light-global-link-color;
