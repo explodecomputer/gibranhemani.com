@@ -43,17 +43,19 @@ Main website: [http://decolbms.org.uk/](http://decolbms.org.uk/)
 
 ### Current
 
-- Yoonsu Cho (Post-doc)
-- Clare Horscroft (Post-doc)
+- Rita Rasteiro (Post-doc)
+- Weili Qiu (Data manager)
 - Sam Neaves (Post-doc, data manager)
-- Hannah Wilson (PhD student)
 - Lily Andrews (PhD student)
 - Amanda Forde (PhD student)
 - Chris Moreno-Stokoe (PhD student)
 
 ### Former
 
+- Yoonsu Cho (Post-doc)
+- Clare Horscroft (Post-doc)
 - Ildar Sadreev (Post-doc)
+- Hannah Wilson (PhD student)
 - Tom Battram (PhD student)
 - Laurence Howe (PhD student)
 - Charles Laurin (Post-doc)
